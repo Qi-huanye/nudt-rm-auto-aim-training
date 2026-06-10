@@ -1,1 +1,10 @@
 .vscode/
+.*
+
+# ROS2 / colcon generated outputs
+build/
+install/
+log/
+auto_aim_hero_old/build/
+auto_aim_hero_old/install/
+auto_aim_hero_old/log/
